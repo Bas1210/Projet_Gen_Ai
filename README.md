@@ -233,7 +233,8 @@ python-dateutil>=2.8.2 # Gestion dates
 
 ## 👥 Contributeurs
 
-**[Votre nom]** - [Email]
+Basile Sorrel
+Wadih Ben Abdesselem
 
 ---
 
